@@ -31,13 +31,13 @@ When spec failed:
 [packer.nvim](https://github.com/wbthomason/packer.nvim)
 
 ```lua
-use { "mogulla3/rspec.nvim" }
+use { "h3pei/rspec.nvim" }
 ```
 
 [vim-plug](https://github.com/junegunn/vim-plug)
 
 ```vim
-Plug "mogulla3/rspec.nvim"
+Plug "h3pei/rspec.nvim"
 ```
 
 ## Usage
